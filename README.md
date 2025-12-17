@@ -30,5 +30,5 @@ Scriptin manuel müdahale olmadan her dakika çalışması için `crontab -e` il
 `* * * * * /bin/bash /home/hdyt16/monitor.sh`
 
 ## 📊 Sistem Görüntüsü (Dashboard)
-Aşağıdaki görsel, projenin tarayıcı üzerindeki çalışma kanıtıdır:
+Aşağıdaki görsel, sunucu kaynaklarının tarayıcı üzerindeki anlık izlenme görüntüsüdür:
 ![Dashboard Görüntüsü](screenshot.png)
